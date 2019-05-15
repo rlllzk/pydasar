@@ -1,3 +1,2 @@
 # pydasar
-python dasar pure
-hasil latihan kungfu di gunung kelir
+python dasar hasil latihan kungfu di gunung kelir
